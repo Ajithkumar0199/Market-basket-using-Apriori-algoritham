@@ -1,2 +1,2 @@
-# Market-basket-using-Apriori-algoritham
- Using the apriori algorithm and list out items that are sold most frequently with other items.
+# Market-basket-using-Apriori-algorithm
+ Using the Apriori algorithm, It can list out the items that are sold most frequently with other items.
